@@ -2,7 +2,8 @@
 #### I am a Junior Web Developer
 ![I am a Junior Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHPcidR6rkqEQ/profile-displaybackgroundimage-shrink_350_1400/0/1635442397843?e=1640822400&v=beta&t=v-q5OM3UhhatswPVyAc2mtM7iMaG7phYOBEqN4JODno)
 
-I'm Claudio a former Graphic Designer who decided to learn Web Development. I really enjoy learning language like HTML , CSS, Javascript and Node Js and I'm also looking forward to learn a framework like Vue, React or Angular. 
+
+I am Claudio, a former Graphic Designer. I decided to approach Web development as well. I really enjoyed learning programming languages such as HTML , CSS, Javascript and Node Js and I'm also looking forward to learn a framework like Vue, React or Angular.
 
 Skills: NODE JS / MONGO DB / JS / HTML / CSS
 
