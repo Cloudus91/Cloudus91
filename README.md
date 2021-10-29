@@ -7,7 +7,7 @@ I'm Claudio a former Graphic Designer who decided to learn Web Development. I re
 Skills: NODE JS / MONGO DB / JS / HTML / CSS
 
 - 🔭 I’m currently working on my skills with the Frontend 
-- 🌱 I’m currently learning the weird part of Javascript and Vue 
+- 🌱 I’m currently learning the weird part of Javascript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/claudio-colucci-33346b157/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cloudus91)](https://github.com/anuraghazra/github-readme-stats)
